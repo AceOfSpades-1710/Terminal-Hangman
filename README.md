@@ -24,10 +24,10 @@ Welcome to the **Hangman Game**, a classic word-guessing challenge implemented i
 
 ## 🗂️ Project Structure
 
-hangman/
-├── Hangman.py # Main script that runs the game logic
-├── words.py # Word list module for fetching random words
-└── README.md # Project documentation
+hangman:
+- Hangman.py # Main script that runs the game logic
+- words.py # Word list module for fetching random words
+- README.md # Project documentation
 
 ---
 
